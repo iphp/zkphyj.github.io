@@ -1,0 +1,4 @@
+
+E:\EYuYan\京东>git clone -b hexo https://github.com/zkphyj/zkphyj.github.io .deploy_git 
+
+E:\EYuYan\京东>git checkout hexo 
