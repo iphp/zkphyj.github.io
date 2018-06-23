@@ -1,6 +1,6 @@
 ---
 title: 京东抽奖活动合集（2018-06-23）
-date: 2018-06-23 07:18:50
+date: 2018-06-23 23:38:56
 tags:
 - 京东
 - 抽奖
@@ -53,3 +53,4 @@ categories: JD
 43.[6.23-6.27抽世界杯门票](https://sale.jd.com/act/PREzgwreDpq4Jxs8.html)：c4ea0e86-f5ee-43dc-a3bc-cc185b7c7e10
 44.[OPPO粉丝周抽奖](https://sale.jd.com/act/tCwaYSkj6r3K.html)：6dfd9cc6-7109-4e1f-8ad9-cbcc0c5be792
 45.[3M超级品牌周活动](https://sale.jd.com/act/0Jo1n8hSrlX.html)：e85c5d82-d103-49ea-828f-ddb36933434a
+46.[幸运抽奖](https://sale.jd.com/act/oObN8sJxtXBirAh.html)：22858722-41f4-4134-8684-3943d0d2a927
