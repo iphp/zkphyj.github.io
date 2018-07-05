@@ -1,4 +1,4 @@
----
+﻿---
 title: 京东抽奖活动合集（2018-07-06）
 date: 2018-07-05 23:41:54
 tags:
@@ -42,3 +42,5 @@ categories: JD
 32. [佳贝艾特7月抽奖](https://sale.jd.com/act/KxyLPzScgJo.html)：49a45996-6e43-4e11-8b69-012668eabb63
 33. [圃田冰青抽奖07.05-07.08](https://sale.jd.com/act/GNsI2WwlnmPE.html)：ce11cdf7-81cd-4d07-9326-0e0fef41ecf0
 34. [联想PCM102电脑麦预售首发抽奖](https://sale.jd.com/act/bErf84nSj5wxH.html)：253f5bb9-0a76-4fb9-b709-aad2d4b81c16
+35. [买雨刷，抽Ipad](https://sale.jd.com/act/svlrndtxmo416.html)：8be78235-6144-4628-9f18-8a4efe516f1c
+36. [海信粉丝专属抽奖页面](https://sale.jd.com/act/4toMzG5jeX2CZwuv.html)：720d8a92-42da-4afb-b46a-91729344fafd
